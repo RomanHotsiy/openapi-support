@@ -1,0 +1,40 @@
+# Companies
+This is a list of companies who are doing things with OpenAPI.
+
+- 3Scale - http://www.3scale.net/
+- 42Crunch - https://42crunch.com/
+- AAPI - https://aapi.io/
+- Ably - https://www.ably.io/
+- Acumatica - https://www.acumatica.com/
+- APIFortress - http://apifortress.com/
+- Assertible - https://assertible.com/
+- Atlassian - https://www.atlassian.com/
+- BitMovin - https://bitmovin.com/
+- Blomberg - https://www.techatbloomberg.com/
+- CA Technologies - https://www.ca.com/
+- eBay - https://www.ebayinc.com/
+- Finxact - http://finxact.com/
+- Google - http://www.google.com/
+- HM Government - https://www.gov.uk/government/organisations/cabinet-office
+- IBM - http://www.ibm.com/
+- IFS - http://www.ifs.com/
+- Imperva - https://www.imperva.com/
+- Intento - https://inten.to/
+- Interzoid - https://www.interzoid.com/
+- ISA - http://www.isa.us.es/
+- Kong - https://konghq.com/
+- Liferay - https://www.liferay.com/solutions/headless-apis
+- LinksRez - https://www.linksrez.com/
+- Microsoft - http://www.microsoft.com/
+- Mulesoft - https://www.mulesoft.com/
+- NHS - http://www.nhsx.nhs.uk/
+- Oracle + Apiary - https://apiary.io/
+- Repreen - https://www.reprezen.com/openapi
+- SAP - http://sap.com
+- Smartbear - http://smartbear.com/
+- Software AG - http://www.softwareag.com/
+- Stoplight - http://stoplight.io/
+- Talend - https://www.talend.com/
+- TeejLab - https://teejlab.com/
+- Tyk - https://tyk.io/
+- WSO2 - https://wso2.com/

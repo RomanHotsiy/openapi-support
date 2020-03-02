@@ -1,0 +1,46 @@
+# Features
+
+These are features that API services and tooling providers are offering around the usage of OpenAPI.
+
+- Schema
+- Versioning
+- Collaboration
+- Environments
+- Examples
+- Search
+- Sync
+- Sharing
+- Workspaces
+- Discovery / Network
+- Templates
+- Buttons
+- Forking
+- Merging
+- Workflows
+- Teams
+- Roles
+- Notifications
+- Browser
+- Runners
+- Mocking
+- Monitoring
+- Testing
+- Validation
+- Automation
+- Documentation
+- CLI
+- SDKs / Scripts
+- GraphQL
+- Visualizations
+- Security
+- Encryption
+- Authentication
+- Audit
+- Commenting
+- History
+- Integrations
+- Backups
+- Contracts
+- Observability
+- Governance
+- Certification
