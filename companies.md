@@ -29,6 +29,7 @@ This is a list of companies who are doing things with OpenAPI.
 - Mulesoft - https://www.mulesoft.com/
 - NHS - http://www.nhsx.nhs.uk/
 - Oracle + Apiary - https://apiary.io/
+- Redocly - https://redoc.ly
 - Repreen - https://www.reprezen.com/openapi
 - SAP - http://sap.com
 - Smartbear - http://smartbear.com/
